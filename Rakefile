@@ -14,7 +14,7 @@ $:.unshift File.dirname(__FILE__) + "/tasks/lib"
 
 
 
-APP_VERSION  = '0.0.1'
+APP_VERSION  = '0.0.2'
 APP_NAME     = 'mushub_client'
 APP_FILE_NAME= "mushub_client.js.erb"
 
